@@ -35,13 +35,3 @@ A BibTeX entry for LaTeX users is
 2. Call the palmerpenguins package using the library() function.
 3. There you go~ You can View() the data now! 
 
-
-
-
-
-
-
-
-
-
-https://zhmm.shinyapps.io/assignment3_mmzh/
