@@ -6,7 +6,7 @@ The [Penguins_ShinyApp App](https://zhmm.shinyapps.io/assignment3_mmzh/) display
 
 ## The Features of this App
 1. Slider Tool: allows user to select for body mass data from min 2700 to max 6300 (g)
-2. Download button: The selected data can be downloaded using the **download selected data** button.  
+2. Download button: The selected data can be downloaded using the **Download selected data** button.  
 3. Interactive Table: Click Tab **Table**, the users will see the other information of the penguins within selected body mass range.
 
 ## About the Dataset: penguins_raw
