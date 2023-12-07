@@ -1,13 +1,21 @@
-# Assignment_b3 - Penguins_ShinyApp 
+# Assignment_b4 - Penguins_ShinyApp updated New Version 
 
 ## Penguins_ShinyApp Discription :page_with_curl:
 
-The [Penguins_ShinyApp App](https://zhmm.shinyapps.io/assignment3_mmzh/) displays a dot plot that shows the body mass of penguins and the islands they belong to. The slider tool can be manipulated so that the data will be presented in the interactive table.  
+The original [Penguins_ShinyApp App](https://zhmm.shinyapps.io/assignment3_mmzh/) displays a dot plot that shows the body mass of penguins and the islands they belong to. The slider tool can be manipulated so that the data will be presented in the interactive table.  
 
-## The Features of this App
+The updated version [Penguins_ShinyApp2.0 App]()
+
+## The Features of original App
 1. Slider Tool: allows user to select for body mass data from min 2700 to max 6300 (g)
 2. Download button: The selected data can be downloaded using the **Download selected data** button.  
 3. Interactive Table: Click Tab **Table**, the users will see the other information of the penguins within selected body mass range.
+
+## New features to the updated App
+1. Add a checkbox which can show variables in certain columns of the raw data
+2. Add a plot in a new tab that can show average weights of penguins in different islands
+3. A slide bar was moved to the tab that includes the plot function, so it would be more convenient for users
+4. A new theme was applied to the App that looks more like the cool environment penguins living in
 
 ## About the Dataset: penguins_raw
 The dataset was from the Palmerpenguins R package including data collected over three year (2007-2009). It provided with information of study name, sample number, region, island, stage etc.
