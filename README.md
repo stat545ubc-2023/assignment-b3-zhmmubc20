@@ -4,7 +4,7 @@
 
 The original [Penguins_ShinyApp App](https://zhmm.shinyapps.io/assignment3_mmzh/) displays a dot plot that shows the body mass of penguins and the islands they belong to. The slider tool can be manipulated so that the data will be presented in the interactive table.  
 
-The updated version [Penguins_ShinyApp2.0 App]()
+The updated version [Penguins_ShinyApp2.0 App](https://zhmm.shinyapps.io/assignment4_penguins_shinyapp_updated/) displays a cool-blue plot that shows the average weight of penguins in different islands. By choosing the range via a slide bar, users can locate which island(s) they can find the targeted weight penguins. Other functions like downloading data are kept. The new version is more user-friendly.
 
 ## The Features of original App
 1. Slider Tool: allows user to select for body mass data from min 2700 to max 6300 (g)
